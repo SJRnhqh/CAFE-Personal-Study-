@@ -388,6 +388,12 @@ def main():
                 # 初始化内层循环的测试准确率
                 acc_inner_test = 0
                 
+                
+                
+                
+                
+                
+                
                 # for il in range(args.inner_loop):  # 原注释的内层循环，已被while循环替代
                 while (1):  # 无限循环，直到满足退出条件
                     # 使用epoch函数进行训练，返回损失和准确率
